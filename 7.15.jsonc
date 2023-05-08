@@ -1,0 +1,62 @@
+{
+  "categorias": [
+    {
+      "nombre": "Ciencia ficción",
+      "libros": [
+        {
+          "titulo": "1984",
+          "autor": "George Orwell",
+          "Numero de paginas": "352",
+         
+    
+        },
+        {
+          "titulo": "Dune",
+          "autor": "Frank Herbert",
+          "Numero de paginas": "826",
+         
+        },
+        {
+          "titulo": "El juego de Ender",
+          "autor": "Orson Scott Card",
+          "Numero de paginas": "376",
+          
+        }
+      ]
+    },
+    {
+      "nombre": "Fantasía",
+      "libros": [
+        {
+          "titulo": "El señor de los anillos",
+          "autor": "J.R.R. Tolkien",
+          "Numero de paginas": "576",
+          
+        },
+        {
+          "titulo": "Harry Potter y la piedra filosofal",
+          "autor": "J.K. Rowling",
+          "Numero de paginas": "256",
+         
+        }
+      ]
+    },
+    {
+      "nombre": "Historia",
+      "libros": [
+        {
+          "titulo": "Sapiens: De animales a dioses",
+          "autor": "Yuval Noah Harari",
+          "Numero de paginas": "496",
+          
+        },
+        {
+          "titulo": "Breve historia del tiempo",
+          "autor": "Stephen Hawking",
+          "Numero de paginas": "194",
+         
+        }
+      ]
+    }
+  ]
+}

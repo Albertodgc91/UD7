@@ -1,0 +1,32 @@
+{
+  "nombre": "Alberto Gonzalez",
+  "perfil": "Desarrollador de software con experiencia en programación web ",
+  "contacto": {
+    "telefono": "650727260",
+    "correo_electronico": "Alberto292es@gmail.com",
+    "direccion": "Rua de varsovia 4b piso 3a"
+  },
+  "educacion": [
+    {
+      "titulo": "Diseño en app webs",
+      "institucion": "IES San Clemente ",
+      "fecha_inicio": "Setptiembre  2022",
+      "fecha_fin": "Mayo 2024",
+      "promedio": "5.9"
+    }
+  ],
+  "habilidades": [
+    {
+      "categoria": "Lenguajes de programación",
+      "lista": ["Java", "JavaScript", "Python"]
+    },
+    {
+      "categoria": "Frameworks y librerías",
+      "lista": ["Angular", "React", "Node.js", "Django"]
+    },
+    {
+      "categoria": "Idiomas",
+      "lista": ["Español", "Inglés (Intermedio)"]
+    }
+  ]
+}
